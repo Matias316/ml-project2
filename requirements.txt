@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.15
+pandas==1.4.1
+seaborn==0.11.2
+matplotlib==3.5.1
+openpyxl==3.0.9
